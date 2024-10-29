@@ -3,7 +3,7 @@
  * Plugin Name: Canada Post Rates & Labels
  * Plugin URI: https://wordpress.org/plugins/a2z-canada-post-automated-shipping/#developers
  * Description: Realtime Shipping Rates, Shipping label, commercial invoice automation included.
- * Version: 3.0.0
+ * Version: 3.0.1
  * Author: Shipi
  * Author URI: https://myshipi.com/
  * Developer: aarsiv
